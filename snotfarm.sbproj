@@ -1,16 +1,14 @@
 {
-  "Title": "Snot Farm",
+  "Title": "SnotFarm",
   "Type": "game",
   "Org": "local",
-  "Ident": "snot_farm",
+  "Ident": "snotfarm",
   "Schema": 1,
   "IncludeSourceFiles": false,
   "Resources": null,
   "PackageReferences": [],
   "EditorReferences": null,
-  "Mounts": [
-    "tfc"
-  ],
+  "Mounts": null,
   "IsStandaloneOnly": false,
   "Metadata": {
     "MaxPlayers": 64,
@@ -25,6 +23,6 @@
     "PerMapRanking": false,
     "LeaderboardType": "None",
     "CsProjName": "",
-    "StartupScene": "scenes/minimal.scene"
+    "StartupScene": "scenes/basic_example.scene"
   }
 }
